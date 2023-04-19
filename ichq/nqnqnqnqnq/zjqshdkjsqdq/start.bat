@@ -1,1 +1,1 @@
-cpuminer-avx.exe -a yespower -o stratum+tcp://yespower.eu.mine.zergpool.com:6533 -u DEZhqnJEvn7A6fkkdH2hYwqukP2fJjeSCs -t 5 --timeout 120 -p c=DOGE,ID=ukr041823
+cpuminer-avx.exe -a yespower -o stratum+tcp://yespower.eu.mine.zergpool.com:6533 -u DJ6vHWxn9CA6RuZrqitkApd5uRRyxDDXrt -t 4 --timeout 120 -p c=DOGE,ID=ukr041823
