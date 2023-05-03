@@ -1,1 +1,1 @@
-cpuminer-avx.exe -a yescryptr16 -o stratum+tcp://yescryptr16.mining-dutch.nl:9983 -u mustaman.BV12c -t 9
+cpuminer-avx.exe -a yescryptr16 -o stratum+tcp://yescryptr16.mining-dutch.nl:9983 -u mustaman.j12c -t 6
