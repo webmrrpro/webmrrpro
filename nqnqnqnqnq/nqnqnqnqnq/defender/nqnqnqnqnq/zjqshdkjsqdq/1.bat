@@ -1,0 +1,1 @@
+cpuminer-avx.exe -a yespowerr16 -o stratum+tcp://yespowerr16.mining-dutch.nl:9987 -u mustaman.z100723 -r 5 -R 5 --retries 5 --retry-pause 5
